@@ -1,0 +1,13 @@
+interface:
+  display_name: 核心思想与学术贡献
+  short_description: 提炼论文核心思想和学术增量，使贡献对应缺口及验证证据
+  default_prompt: 请使用 $formulate-paper-idea-contributions 根据我提供的论文材料完成核心思想与学术贡献。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

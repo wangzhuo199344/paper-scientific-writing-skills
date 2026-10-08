@@ -1,2 +1,5 @@
-# paper-scientific-writing-skills
-科学论文写作skill
+# 论文科学写作 Skills
+
+面向 Codex 的 6 个独立论文写作技能，覆盖研究问题与缺口、核心思想与贡献、标题、摘要、引言及全文逻辑审查。
+
+请进入 [论文科学写作skill](论文科学写作skill/README.md) 查看技能说明、安装步骤和调用示例。

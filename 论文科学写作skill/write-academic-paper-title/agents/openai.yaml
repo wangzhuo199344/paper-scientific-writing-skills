@@ -1,0 +1,13 @@
+interface:
+  display_name: 论文标题
+  short_description: 生成准确具体且可检索的论文标题，核对每项承诺的正文依据
+  default_prompt: 请使用 $write-academic-paper-title 根据我提供的论文材料完成论文标题。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

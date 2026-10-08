@@ -1,0 +1,13 @@
+interface:
+  display_name: 全文逻辑与一致性审查
+  short_description: 检查论文问题方法主张证据及跨章节一致性，并排序修改事项
+  default_prompt: 请使用 $audit-paper-logic-consistency 根据我提供的论文材料完成全文逻辑与一致性审查。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
