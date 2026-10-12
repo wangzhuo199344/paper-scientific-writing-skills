@@ -1,0 +1,4 @@
+interface:
+  display_name: "图表选择与表达审查"
+  short_description: "按研究问题选择图表，核对统计含义、图注、坐标单位和排版可读性"
+  default_prompt: "请使用 $present-academic-figures-tables，检查本文图表是否支持明确研究问题，并修正图注、统计含义与可读性。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "结果分析与讨论"
+  short_description: "围绕关键观察解释结果、连接学术主张，并明确外推范围与失败条件"
+  default_prompt: "请使用 $write-academic-results-discussion，根据图表和实验记录改写结果讨论，区分观察、解释与可支持的结论。"

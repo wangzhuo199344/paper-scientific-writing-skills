@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术语言与段落结构"
+  short_description: "压缩冗余、理顺段落和术语，同时保留论文事实、条件与证据强度"
+  default_prompt: "请使用 $polish-academic-language-structure，凝练这段论文文字，理顺逻辑和术语，保留数值、条件与结论强度。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "相关工作与研究定位"
+  short_description: "按研究路线组织相关工作并比较最接近研究，准确定位本文的学术增量"
+  default_prompt: "请使用 $write-academic-related-work，依据当前稿件与已提供文献重写相关工作，并明确最接近工作与本文的差异。"

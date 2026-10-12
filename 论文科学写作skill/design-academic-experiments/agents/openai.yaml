@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验设计与证据链"
+  short_description: "把学术主张转为研究问题，设计公平基线、消融与可靠性验证证据"
+  default_prompt: "请使用 $design-academic-experiments，为本文各项主张设计研究问题、基线、消融与验证方案，并标明已完成与待开展项目。"

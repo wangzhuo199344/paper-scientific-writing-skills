@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究方法与公式阐释"
+  short_description: "解释方法设计动机、框架信息流与公式含义，检查实现细节和复现信息"
+  default_prompt: "请使用 $write-academic-research-method，重组方法章节，说明每项设计的动机、公式含义与实际实现。"

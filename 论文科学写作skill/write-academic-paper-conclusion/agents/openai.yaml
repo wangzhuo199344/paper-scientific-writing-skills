@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文结论与局限"
+  short_description: "凝练问题、核心思想和主要发现，明确结论适用范围与研究局限"
+  default_prompt: "请使用 $write-academic-paper-conclusion，根据当前论文撰写结论，保留主要发现与边界，避免照搬摘要。"
